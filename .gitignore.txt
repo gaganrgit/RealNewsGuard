@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Project-specific ignores
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/static/processed_images/*
+!backend/static/processed_images/.gitkeep
+
+# Ignore log files and other temporary files
+*.log
+*.temp.jpg
+
+# Ignore environment files that contain secrets
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db

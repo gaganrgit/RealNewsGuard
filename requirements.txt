@@ -1,0 +1,25 @@
+# FastAPI and Server
+fastapi
+uvicorn
+python-multipart
+aiofiles
+
+# Data Handling and Machine Learning
+numpy
+scikit-learn
+transformers
+torch
+
+# Web Scraping and HTTP Requests
+requests
+beautifulsoup4
+newsapi-python
+
+# Image Processing
+Pillow
+
+# Natural Language Processing
+nltk
+
+# Environment Variables
+python-dotenv
